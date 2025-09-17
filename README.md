@@ -8,7 +8,7 @@ Although this advancement is significant, this technology alone may not be enoug
 The merger of these two technologies is known as quantum machine learning, where quantum algorithms are applied to improve the efficiency and speed of data processing for machine learning, especially when working with large amounts of data.
 The purpose of our PEF is to research and learn about these emerging technologies that are undoubtedly affecting our and will continue to affect not only technology and research but also our lives. The average student has vast gaps in their knowledge of these technologies, and it is our goal to deepen and improve existing knowledge of quantum machine learning.
 
-### Videos 
+Videos 
 
 [![Video Thumbnail](https://img.youtube.com/vi/9gGnTQTYNaE/maxresdefault.jpg)](https://www.youtube.com/watch?v=9gGnTQTYNaE)
 
@@ -20,26 +20,28 @@ The purpose of our PEF is to research and learn about these emerging technologie
 
 Machine learning focuses on developing algorithms and models enabling computers to learn from data and make predictions or decisions, there are three main types of machine learning: supervised, unsupervised, and the reinforcement one.
 
-##### Supervised
+Supervised
 
 Is when the computer learns from examples that already have the correct answers. 
 The data comes with labels, and the goal is to predict the right output for new data, for example a program trained with labeled photos of cats and dogs can later identify whether a new photo shows a cat or a dog.
 
-###### Unsupervised
+Unsupervised
 
 Is when the computer has no labeled answers. 
 Instead, it tries to find hidden patterns or groupings within the data, for example it can analyze shopping behavior and group customers with similar habits
 
-####### Reinforcement
+Reinforcement
 
 Is when the computer learns by trial and error. 
 It makes decisions, receives feedback in the form of rewards or penalties, and adjusts its actions over time to maximize success.
 
-######## Video And Blog 
+Video And Blog 
+
 [![Video Thumbnail](https://img.youtube.com/vi/x3KOCphRltk/maxresdefault.jpg)](https://www.youtube.com/watch?v=x3KOCphRltk)
+
 [Machine Learning - IBM](https://www.ibm.com/think/topics/machine-learning-types)
 
-######### Linear Regression
+Linear Regression
 
 
 
