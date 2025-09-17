@@ -8,7 +8,7 @@ Although this advancement is significant, this technology alone may not be enoug
 The merger of these two technologies is known as quantum machine learning, where quantum algorithms are applied to improve the efficiency and speed of data processing for machine learning, especially when working with large amounts of data.
 The purpose of our PEF is to research and learn about these emerging technologies that are undoubtedly affecting our and will continue to affect not only technology and research but also our lives. The average student has vast gaps in their knowledge of these technologies, and it is our goal to deepen and improve existing knowledge of quantum machine learning.
 
-
+### Videos 
 
 [![Video Thumbnail](https://img.youtube.com/vi/9gGnTQTYNaE/maxresdefault.jpg)](https://www.youtube.com/watch?v=9gGnTQTYNaE)
 
