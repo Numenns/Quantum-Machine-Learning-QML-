@@ -27,12 +27,12 @@ The data comes with labels, and the goal is to predict the right output for new 
 
 ###### Unsupervised
 
-s when the computer has no labeled answers. 
+Is when the computer has no labeled answers. 
 Instead, it tries to find hidden patterns or groupings within the data, for example it can analyze shopping behavior and group customers with similar habits
 
 ####### Reinforcement
 
-s when the computer learns by trial and error. 
+Is when the computer learns by trial and error. 
 It makes decisions, receives feedback in the form of rewards or penalties, and adjusts its actions over time to maximize success.
 
 ######## Video And Blog 
