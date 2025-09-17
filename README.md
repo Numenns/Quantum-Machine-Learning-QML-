@@ -40,6 +40,14 @@ Video And Blog
 [![Video Thumbnail](https://img.youtube.com/vi/x3KOCphRltk/maxresdefault.jpg)](https://www.youtube.com/watch?v=x3KOCphRltk)
 
 [Machine Learning - IBM](https://www.ibm.com/think/topics/machine-learning-types)
+Quantum Mechanics Fundamentals: Qubit, Superposition, Entanglement, Measurement, Gates, and Collapse
+What is a Qubit?
+
+Que_es_un_Qubit
+
+A qubit, or quantum bit, is the basic unit of information in quantum computing, introduced by Benjamin Schumacher. Unlike a classical bit, which can only be 0 or 1, a qubit can exist in superposition, representing 0, 1, and all intermediate states simultaneously. This property enables quantum computers to process vastly more information than classical systems.
+
+Qubits can be implemented using photons, trapped ions, electrons, atoms, or superconducting circuits, but they require highly controlled environments—often near absolute zero temperatures—to prevent decoherence. Quantum computing powered by qubits could revolutionize fields like cryptography, medicine, climate research, and artificial intelligence.
 
 Linear Regression
 
