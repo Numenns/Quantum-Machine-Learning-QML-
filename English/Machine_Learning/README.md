@@ -13,5 +13,6 @@ Is when the computer learns by trial and error. It makes decisions, receives fee
 
 
 # Video And Blog  
-[![Video Thumbnail](https://img.youtube.com/vi/x3KOCphRltk/maxresdefault.jpg)](https://www.youtube.com/watch?v=x3KOCphRltk)  
+[![Video Thumbnail](https://img.youtube.com/vi/x3KOCphRltk/maxresdefault.jpg)](https://www.youtube.com/watch?v=x3KOCphRltk)
+
 [Machine Learning - IBM](https://www.ibm.com/think/topics/machine-learning-types)
