@@ -1,5 +1,5 @@
 # Disclaimer
-You can find resources and documentation about the topic, inside the [Content](./Content) folder, you will find additional documents in PDF format
+You can find resources and documentation about the topic, inside the [Content](./Content) folder, you will find additional documents in PDF format, all PDF are from  [shannonasmith/Machine_Learning_books](https://github.com/shannonasmith/Machine_Learning_books/tree/main)
 
 # About Machine Learning  
 Machine learning focuses on developing algorithms and models enabling computers to learn from data and make predictions or decisions, there are three main types of machine learning: supervised, unsupervised, and the reinforcement one.  
