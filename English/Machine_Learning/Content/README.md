@@ -5,7 +5,7 @@ That’s why I’ll be recommending a few selected resources here to help you ge
 
 ## Top 5 PDFs  
 
-1. [Introduction to Machine Learning](./intro_ml.pdf)  
+1. [A Course In Machine Learning](./A%20Course%20in%20Machine%20Learning%20(2013).pdf)  
 2. [Supervised vs Unsupervised Learning](./supervised_unsupervised.pdf)  
 3. [Reinforcement Learning Basics](./reinforcement_learning.pdf)  
 4. [Deep Learning Overview](./deep_learning.pdf)  
