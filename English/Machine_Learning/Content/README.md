@@ -7,7 +7,5 @@ That’s why I’ll be recommending a few selected resources here to help you ge
 
 1. [A Course In Machine Learning](./A%20Course%20in%20Machine%20Learning%20(2013).pdf)  
 2. [Machine Learning](./Machine%20Learning%20(2018).pdf)  
-3. [Reinforcement Learning Basics](./reinforcement_learning.pdf)  
-4. [Deep Learning Overview](./deep_learning.pdf)  
-5. [Practical Applications of ML](./ml_applications.pdf)  
+3. [Machine Learning for Absolute Beginners](./Machine%@0Learning%20for%20Absolute%20Beginners%202e%20(2017).pdf)  
 
