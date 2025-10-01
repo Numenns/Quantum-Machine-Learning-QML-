@@ -9,6 +9,10 @@ The fusion of these two technologies gives rise to Quantum Machine Learning (QML
 
 QML stands at the intersection of quantum physics and artificial intelligence, with the potential to revolutionize many areas.
 
+## More info about it
+
+👉 [learn about Machine Learning](Machine_Learning/)
+
 # Empezando con el QML
 
 La computación clásica ha llegado a un límite: los transistores normales no pueden hacerse más pequeños, y necesitamos nuevas formas de expandir la capacidad de procesamiento.
