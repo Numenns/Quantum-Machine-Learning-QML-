@@ -37,6 +37,6 @@ $$
 - **b** = intercept (where the line starts)  
 
 
-## More about it (Google dev blog)
+# More about it (Google dev blog)
 
 [![Google Logo](https://img.youtube.com/vi/cazdJdeZcUY/maxresdefault.jpg)](https://developers.google.com/machine-learning/crash-course/linear-regression)
