@@ -12,6 +12,7 @@ QML stands at the intersection of quantum physics and artificial intelligence, w
 ## More info about it
 
 👉 [learn about Machine Learning](English/Machine_Learning/)
+👉 [learn about Quantum Fundamentals](English/Quantum_fundamental/)
 
 # Empezando con el QML
 
