@@ -19,3 +19,24 @@ Is when the computer learns by trial and error. It makes decisions, receives fee
 
 # IBM blog
 [![IBM Logo](https://img.youtube.com/vi/RYq0Neii7FU/maxresdefault.jpg)](https://www.ibm.com/think/topics/machine-learning-types)
+
+## Linear Regression 
+
+Linear Regression is a machine learning method used to predict a number (the output) based on one or more inputs. It works by finding the best straight line that connects the input data to the output data. The line shows how the output changes when the input changes.
+
+### Simple Linear Regression (1 input)
+The formula is:  
+
+$$
+Y = mX + b
+$$
+
+- **Y** = predicted value (output)  
+- **X** = input value  
+- **m** = slope (how much Y changes when X changes)  
+- **b** = intercept (where the line starts)  
+
+
+## More about it (Google dev blog)
+
+[![Google Logo](https://img.youtube.com/vi/cazdJdeZcUY/maxresdefault.jpg)](https://developers.google.com/machine-learning/crash-course/linear-regression)
