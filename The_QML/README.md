@@ -24,7 +24,7 @@ These experiments help understand how classical and quantum components work toge
 
 ## Recommended Videos
 
-[![Quantum Machine Learning Explained](https://img.youtube.com/vi/NqHKr9CGWJ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=NqHKr9CGWJ0)  d
+[![Quantum Machine Learning Explained](https://img.youtube.com/vi/NqHKr9CGWJ0/maxresdefault.jpg)](https://www.youtube.com/watch?v=NqHKr9CGWJ0)  
 
 [![Hybrid Quantum–Classical Machine Learning](https://img.youtube.com/vi/tKb2tHm8DC0/maxresdefault.jpg)](https://www.youtube.com/watch?v=tKb2tHm8DC0)  
  
