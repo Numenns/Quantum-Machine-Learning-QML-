@@ -29,3 +29,9 @@ La fusión de estas dos tecnologías da origen al Quantum Machine Learning (QML)
 
 QML se encuentra en la intersección entre la física cuántica y la inteligencia artificial, con el potencial de revolucionar muchas áreas.
 
+## Mas informacion sobre el tema
+
+👉 [learn about Quantum Fundamentals](Español/fundamentos_cuanticos/content/)
+👉 [learn about Machine Learning](Español/Aprendizaje_Automatizado/)
+👉 [learn about QML](Español/El_QML/)
+👉 [Code Practice](QSVC_using_Qiskit.ipynb)
