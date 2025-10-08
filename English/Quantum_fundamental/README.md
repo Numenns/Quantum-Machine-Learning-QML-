@@ -81,39 +81,24 @@ Interpretations: **Copenhagen, Many-worlds, Objective collapse, Consciousness hy
 
 ### Quantum Gates
 
-Quantum gates are **unitary transformations** acting on qubits.  
+Quantum gates are like the building blocks of quantum computers.
+They work on qubits, which are special units of information that can represent both 0 and 1 at the same time. This is different from normal computers, where each bit is either 0 or 1.
 
-Examples:
+Each quantum gate changes the state of a qubit in a very specific way — you can think of it like rotating or flipping the qubit’s “direction” in a 3D space.
 
-- **Pauli-X gate (NOT):**
-  $$
-  X = \begin{bmatrix} 0 & 1 \\ 1 & 0 \end{bmatrix}
-  $$
+Common Quantum Gates
 
-- **Pauli-Z gate:**
-  $$
-  Z = \begin{bmatrix} 1 & 0 \\ 0 & -1 \end{bmatrix}
-  $$
+X gate (Pauli-X) – Works like a NOT gate in normal computers: it flips 0 to 1 and 1 to 0.
 
-- **Hadamard gate:**
-  $$
-  H = \frac{1}{\sqrt{2}}
-  \begin{bmatrix} 
-  1 & 1 \\ 
-  1 & -1 
-  \end{bmatrix}
-  $$
+Y gate (Pauli-Y) – Rotates the qubit in another direction, adding a change that includes both a flip and a twist.
 
-- **CNOT gate:**
-  $$
-  \text{CNOT} =
-  \begin{bmatrix} 
-  1 & 0 & 0 & 0 \\
-  0 & 1 & 0 & 0 \\
-  0 & 0 & 0 & 1 \\
-  0 & 0 & 1 & 0
-  \end{bmatrix}
-  $$
+Z gate (Pauli-Z) – Keeps the qubit’s value but changes its “phase,” like shifting its internal timing.
+
+Hadamard gate (H) – Makes the qubit go into a mix of 0 and 1 at the same time. This is called superposition, and it’s one of the key features of quantum computing.
+
+Phase gates (S, T) – Change how the qubit’s wave behaves without flipping it.
+
+CNOT gate (Controlled-NOT) – Works on two qubits. It flips the second one only if the first one is 1. This allows qubits to become entangled, meaning their values get linked together in a way that normal bits never can.
 
 Applications: **Shor’s algorithm, Grover’s search, error correction, quantum simulation.**
 
