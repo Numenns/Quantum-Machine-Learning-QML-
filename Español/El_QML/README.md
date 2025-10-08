@@ -29,4 +29,29 @@ Estos experimentos permiten comprender cómo interactúan los componentes clási
 [![Quantum Machine Learning Tutorial](https://img.youtube.com/vi/ckJMylEYgIw/maxresdefault.jpg)](https://www.youtube.com/watch?v=tM53iQhI0yM)
 
 (imagen no es la miniatura del video)
+---
+Este código organiza y separa datos de clientes utilizando una combinación de aprendizaje automático clásico y computación cuántica.
 
+Paso a paso:
+
+Carga los datos de clientes — por ejemplo, ingresos, gastos e historial crediticio.
+También incluye una columna que indica si cada cliente incumplió (no pagó) o no incumplió (pagó normalmente).
+
+Prepara los datos — los limpia, los normaliza y los divide en dos partes:
+
+una parte para entrenar el modelo,
+
+otra parte para probarlo.
+
+Reduce la información (usando PCA) para quedarse solo con las características más importantes que ayudan a distinguir a los clientes.
+
+Utiliza un modelo cuántico — este modelo convierte los datos en una representación cuántica y aprende a dividir a los clientes en dos grupos:
+
+los que probablemente incumplan,
+
+y los que probablemente paguen.
+
+Evalúa qué tan bien el modelo aprendió a separar los grupos.
+Los resultados (94 % de exactitud, 0.96 de AUC) muestran que el modelo divide eficazmente los datos entre los dos tipos de clientes.
+
+En resumen, este programa toma los datos de los clientes, los analiza y usa un modelo cuántico para aprender a separar quién pagará y quién no pagará. No ordena los datos como una lista, sino que los divide en grupos claros según su comportamiento.
