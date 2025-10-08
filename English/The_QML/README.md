@@ -31,7 +31,7 @@ These experiments help understand how classical and quantum components work toge
 
 ## Explainig the Code
 
-[This code](https://github.com/Numenns/QSVC_using_Qiskit.ipynb) organizes and separates customer data using a mix of classical machine learning and quantum computing.
+[This code](https://github.com/Numenns/Quantum-Machine-Learning-QML-/blob/main/QSVC_using_Qiskit.ipynb) organizes and separates customer data using a mix of classical machine learning and quantum computing.
 
 Step by step:
 
