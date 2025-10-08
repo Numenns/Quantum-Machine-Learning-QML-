@@ -31,7 +31,7 @@ QML se encuentra en la intersección entre la física cuántica y la inteligenci
 
 ## Mas informacion sobre el tema
 
-👉 [learn about Quantum Fundamentals](Español/fundamentos_cuanticos/content/)
-👉 [learn about Machine Learning](Español/Aprendizaje_Automatizado/)
+👉 [Aprende sobre el Quantum](Español/fundamentos_cuanticos/content/)
+👉 [Aprende sobre ML](Español/Aprendizaje_Automatizado/)
 👉 [learn about QML](Español/El_QML/)
-👉 [Code Practice](QSVC_using_Qiskit.ipynb)
+👉 [Codigo de practica](QSVC_using_Qiskit.ipynb)
