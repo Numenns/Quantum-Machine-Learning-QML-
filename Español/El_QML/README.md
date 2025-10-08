@@ -30,9 +30,10 @@ Estos experimentos permiten comprender cómo interactúan los componentes clási
 
 (imagen no es la miniatura del video)
 ---
+
 ## Explicando el código
 
-Este código organiza y separa datos de clientes utilizando una combinación de aprendizaje automático clásico y computación cuántica.
+[Este código](https://github.com/Numenns/Quantum-Machine-Learning-QML-/blob/main/QSVC_using_Qiskit.ipynb) organiza y separa datos de clientes utilizando una combinación de aprendizaje automático clásico y computación cuántica.
 
 Paso a paso:
 
