@@ -1,5 +1,6 @@
 # Disclaimer  
-Puedes encontrar recursos y documentación sobre este tema dentro de la carpeta [Content](../../English/Machine_Learning/Content/README.md). Allí encontrarás documentos adicionales en formato PDF.  
+Puedes encontrar recursos y documentación sobre este tema dentro de la carpeta [Content]([Content](https://github.com/Numenns/Quantum-Machine-Learning-QML-/blob/main/English/Machine_Learning/Content/README.md)
+). Allí encontrarás documentos adicionales en formato PDF.  
 Todos los archivos PDF provienen del repositorio:  
 [shannonasmith/Machine_Learning_books](https://github.com/shannonasmith/Machine_Learning_books/tree/main)
 
