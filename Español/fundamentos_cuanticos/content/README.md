@@ -75,8 +75,7 @@ Al medir $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$:
 
 **Interpretaciones:** Copenhague, Muchos mundos, Colapso objetivo, Hipótesis de la conciencia.
 
-[![Miniatura del video](https://img.youtube.com/vi/7-TuaLHCZfM/maxresdefault.jpg)](https://www.youtube.com/watch?v=7-TuaLHCZfM&t=1s)
-
+[![Video Thumbnail](https://img.youtube.com/vi/mqofuYCz9gs/maxresdefault.jpg)](https://www.youtube.com/watch?v=mqofuYCz9gs)
 ---
 
 ### Puertas Cuánticas
