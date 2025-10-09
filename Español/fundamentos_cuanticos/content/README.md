@@ -20,7 +20,7 @@ Los qubits pueden implementarse usando **fotones, iones atrapados, electrones, �
 
 **Aplicaciones:** criptografía, medicina, investigación climática e inteligencia artificial.
 
-[![Miniatura del video](https://img.youtube.com/vi/2pB87H3_F_c/maxresdefault.jpg)](https://www.youtube.com/watch?v=2pB87H3_F_c)
+[![Miniatura del video](https://img.youtube.com/vi/ilPfvMEOmCs/maxresdefault.jpg)](https://www.youtube.com/watch?v=ilPfvMEOmCs&t=138s)
 
 ---
 
@@ -43,7 +43,7 @@ $$
 
 **Ejemplos:** el gato de Schrödinger, experimento de la doble rendija.  
 
-[![Miniatura del video](https://img.youtube.com/vi/kmCZMLfo_ak/maxresdefault.jpg)](https://www.youtube.com/watch?v=kmCZMLfo_ak)
+[![Miniatura del video](https://img.youtube.com/vi/6f4TDqnRdr8/maxresdefault.jpg)](https://www.youtube.com/watch?v=6f4TDqnRdr8)
 
 ---
 
@@ -59,7 +59,7 @@ $$
 
 **Aplicaciones:** criptografía cuántica, teletransportación, computación y metrología.
 
-[![Miniatura del video](https://img.youtube.com/vi/9vDyS2_Hufk/maxresdefault.jpg)](https://www.youtube.com/watch?v=9vDyS2_Hufk)
+[![Miniatura del video](https://img.youtube.com/vi/iZ5I_P4XUWQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=iZ5I_P4XUWQ&t=2s)
 
 ---
 
@@ -75,7 +75,7 @@ Al medir $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$:
 
 **Interpretaciones:** Copenhague, Muchos mundos, Colapso objetivo, Hipótesis de la conciencia.
 
-[![Miniatura del video](https://img.youtube.com/vi/mqofuYCz9gs/maxresdefault.jpg)](https://www.youtube.com/watch?v=mqofuYCz9gs)
+[![Miniatura del video](https://img.youtube.com/vi/7-TuaLHCZfM/maxresdefault.jpg)](https://www.youtube.com/watch?v=7-TuaLHCZfM&t=1s)
 
 ---
 
@@ -97,7 +97,7 @@ Cada puerta cuántica cambia el estado de un qubit de una manera muy específica
 
 **Aplicaciones:** algoritmo de Shor, búsqueda de Grover, corrección de errores, simulación cuántica.
 
-[![Miniatura del video](https://img.youtube.com/vi/g_IaVepNDT4/maxresdefault.jpg)](https://www.youtube.com/watch?v=g_IaVepNDT4)
+[![Miniatura del video](https://img.youtube.com/vi/73iQffY35VI/maxresdefault.jpg)](https://www.youtube.com/watch?v=73iQffY35VI&t=3s)
 
 ---
 
@@ -109,7 +109,6 @@ El colapso es la transición de la superposición a un único resultado cuando s
 
 **Crítica a la hipótesis de la conciencia:** no tiene respaldo empírico; la decoherencia explica el colapso de manera suficiente.  
 
-[![Miniatura del video](https://img.youtube.com/vi/LOVHlg9tuyc/maxresdefault.jpg)](https://www.youtube.com/watch?v=LOVHlg9tuyc)
+[![Miniatura del video](https://img.youtube.com/vi/JDp5iWBrnM8/maxresdefault.jpg)](https://www.youtube.com/watch?v=JDp5iWBrnM8)
 
 ---
-
