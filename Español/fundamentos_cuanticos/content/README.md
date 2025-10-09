@@ -96,8 +96,7 @@ Cada puerta cuántica cambia el estado de un qubit de una manera muy específica
 
 **Aplicaciones:** algoritmo de Shor, búsqueda de Grover, corrección de errores, simulación cuántica.
 
-[![Miniatura del video](https://img.youtube.com/vi/73iQffY35VI/maxresdefault.jpg)](https://www.youtube.com/watch?v=73iQffY35VI&t=3s)
-
+[![Video Thumbnail](https://img.youtube.com/vi/g_IaVepNDT4/maxresdefault.jpg)](https://www.youtube.com/watch?v=g_IaVepNDT4)
 ---
 
 ### Colapso Cuántico y Conciencia
